@@ -43,7 +43,6 @@ const Navbar = () => {
           </div>
         </div>
       </nav>
-      <h1>Welcome to Cat API!</h1>
     </>
   );
 };

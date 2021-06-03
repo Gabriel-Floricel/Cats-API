@@ -14,10 +14,10 @@ This project was made using ReactJS, using simple API calls like Post, Get, Dele
 - Images are rendered in a carousel made with react-bootstrap.
 - There is a Delete button that sends a Delete call to the server.
 
-##### Public Images:
+#### Public Images:
 
 - This component renders random cat images from the public server, using 2 filters (category, number of photos per page)
 
-###### Upload:
+#### Upload:
 
 - This component enables the user to upload a local picture of a cat, to the API server.
