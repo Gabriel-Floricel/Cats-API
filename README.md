@@ -21,3 +21,27 @@ This project was made using ReactJS, using simple API calls like Post, Get, Dele
 #### Upload:
 
 - This component enables the user to upload a local picture of a cat, to the API server.
+
+## Live Application URL
+
+The Application is deployed in https://cats-api.pages.dev/
+
+Click on the link to see the application
+
+## Cloning and Running the Application in local
+
+Clone the project into local
+
+Install all the npm packages. Go into the project folder and type the following command to install all npm packages
+
+```bash
+npm install
+```
+
+In order to run the application Type the following command
+
+```bash
+npm start
+```
+
+The Application Runs on **localhost:3000**
